@@ -1,0 +1,17 @@
+{
+    "D:\\GIT\\TEASER": {
+        "current branch": "issue318_AixLibExport",
+        "last commit": "3da4e1945289f458940974eb3e223f6a5e7486c0"
+    },
+    "D:\\GIT\\AixLib": {
+        "current branch": "master",
+        "last commit": "f14f7fc1707ba1619e87164cc49a19eb11f72fd4"
+    },
+    "D:\\GIT\\LivMapScripts": {
+        "current branch": "master",
+        "last commit": "1e49fc74b96370fb9e869b2e6a35baadc2926f97"
+    },
+    "Beschreibung": "Importiert drei Gebaude aus der Datenbank, erstellt ein TEASER Project, exportiert die Modelle und pickled sowohl Datenbankobjekte (liste von drei Gebaeuden) als auch das komplette TEASER projekt. Du musst sowohl teaser als auch livmapscripts installieren! Dieses Script wird nicht funktionieren, bitte benutze load_pickle um die Sache zu laden! Viel Spass :)",
+    "Datum": "2016.12.22",
+    "created by": "pre"
+}
